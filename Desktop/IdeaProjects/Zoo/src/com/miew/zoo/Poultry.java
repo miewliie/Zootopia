@@ -11,7 +11,7 @@ public class Poultry extends Animals{
         super(animalID, animalName, animalColor, habitat);
     }
 
-    public void fly(){
-        //Animal can fly
+    public void hWings(){
+        //Poultry have wings
     }
 }
